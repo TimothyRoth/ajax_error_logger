@@ -1,0 +1,4 @@
+Zeitstempel,Anfrage,Methode,Fehlermeldung,HTTP-Status,WordPress-Status
+"2024-02-27 16:45:36",action=exportLogs&logIDs%5B%5D=1294&logIDs%5B%5D=1297,POST,error,500,offen
+"2024-02-27 16:45:36",action=exportLogs&logIDs%5B%5D=1294&logIDs%5B%5D=1297,POST,error,500,offen
+"2024-02-27 16:45:35",action=exportLogs&logIDs%5B%5D=1294&logIDs%5B%5D=1297,POST,error,500,offen
