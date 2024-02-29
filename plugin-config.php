@@ -25,7 +25,7 @@ define('PLUGIN_URI', plugin_dir_url(__FILE__));
  * API Modules array
  * First key is the module name and its namespace and the value is the holyApi namespace
  * Example: holyApi\{key}\{value}\{key}
- * Consider adding an annotation inside in the app\App.php for IDE autocompletion
+ * Consider adding an annotation inside app\App.php for IDE autocompletion
  **/
 
 const API_MODULES = [
