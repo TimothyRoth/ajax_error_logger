@@ -1,0 +1,15 @@
+{
+  "require": {
+    "league/csv": "^9.9",
+    "timothyroth/holyapi": "main-dev"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}

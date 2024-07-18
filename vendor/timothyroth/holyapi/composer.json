@@ -1,0 +1,21 @@
+{
+    "name": "timothyroth/holyapi",
+    "description": "minimalistic library to create dynamic APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "timothyroth",
+            "email": "me@timothy-roth.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+             "HolyApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "minimum-stability": "stable"
+}
